@@ -19,6 +19,7 @@ This is a fix on master from the right hand side
 This is a second fix on master from the right hand side
 This is a second fix from the left hand side
 This is a third fix on master from the left hand side
+This is a fix from Right_Hand_Branch from the right hand side
 
 == What You Will Build
 
