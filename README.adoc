@@ -13,6 +13,9 @@ guides and many sample applications use). It uses Spring Data JPA to access the 
 but this is only one of many possible choices (for example, you could use plain Spring
 JDBC).
 
+== Big Bug Fixes
+This is a fix from the left hand side
+
 == What You Will Build
 
 You will create a MySQL database, build a Spring application, and connect it to the newly
