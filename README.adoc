@@ -16,6 +16,7 @@ JDBC).
 == Big Bug Fixes
 This is a fix from the left hand side
 This is a fix on master from the right hand side
+This is a second fix on master from the right hand side
 
 == What You Will Build
 
